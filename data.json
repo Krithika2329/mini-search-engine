@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Node.js Basics",
+    "content": "This article explains the basics of Node.js.",
+    "tags": [
+      "Node.js",
+      "JavaScript",
+      "Backend"
+    ],
+    "createdAt": "2024-12-04T08:36:22.585Z"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Node.js",
+    "content": "This article covers advanced topics in Node.js such as streams, buffers, and clusters.",
+    "tags": [
+      "Node.js",
+      "Advanced",
+      "Backend"
+    ],
+    "createdAt": "2024-12-04T08:49:36.091Z"
+  },
+  {
+    "id": 3,
+    "title": "Mastering React",
+    "content": "Learn how to create dynamic and responsive web applications using React.",
+    "tags": [
+      "React",
+      "JavaScript",
+      "Frontend"
+    ],
+    "createdAt": "2024-12-04T08:50:17.888Z"
+  },
+  {
+    "id": 4,
+    "title": "REST API Design",
+    "content": "Best practices and strategies for designing scalable and efficient REST APIs.",
+    "tags": [
+      "API",
+      "REST",
+      "Backend"
+    ],
+    "createdAt": "2024-12-04T08:50:55.472Z"
+  },
+  {
+    "id": 5,
+    "title": "MongoDB Essentials",
+    "content": "A beginner's guide to working with MongoDB, a NoSQL database.",
+    "tags": [
+      "MongoDB",
+      "Database",
+      "NoSQL"
+    ],
+    "createdAt": "2024-12-04T08:51:11.946Z"
+  },
+  {
+    "id": 6,
+    "title": "Frontend Performance Tips",
+    "content": "Improve the performance of your web applications with these tips and tricks.",
+    "tags": [
+      "Performance",
+      "Frontend",
+      "Optimization"
+    ],
+    "createdAt": "2024-12-04T08:51:28.510Z"
+  },
+  {
+    "id": 7,
+    "title": "Deployment Strategies",
+    "content": "Learn different strategies for deploying your web applications efficiently.",
+    "tags": [
+      "Deployment",
+      "DevOps",
+      "Web Applications"
+    ],
+    "createdAt": "2024-12-04T08:51:45.179Z"
+  },
+  {
+    "id": 8,
+    "title": "Deployment Strategies",
+    "content": "Learn different strategies for deploying your web applications efficiently.",
+    "tags": [
+      "Deployment",
+      "DevOps",
+      "Web Applications"
+    ],
+    "createdAt": "2024-12-04T09:13:10.501Z"
+  }
+]
